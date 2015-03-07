@@ -1,3 +1,3 @@
 # datasciencecoursera
 Coursera Data
-For copurse asignments
+For course asignments
